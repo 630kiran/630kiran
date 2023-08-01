@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @630kiran
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Full Stock Data Science
+- 🌱 Full Stock Data Science | Data Analyst | Business Analyst
 - 💞️ I’m looking to collaborate on Top MNC'S.
 - 📫 How to reach me Just mail this adress - kiranbarackkumar@gmail.com
 
